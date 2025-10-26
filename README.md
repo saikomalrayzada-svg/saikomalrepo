@@ -10,3 +10,7 @@ temp made a change
 =======
 Hey Sai I can join a company using git repo!
 
+
+This is a example to make a merge conflict!
+
+
